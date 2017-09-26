@@ -5,5 +5,8 @@ command line history:
 2) npm install electron --save-dev
 3) npm start
 
-# git remote add origin git@github.com:wmc777/electron-demo.git
-# http://rogerdudler.github.io/git-guide/
+#example git commands
+git remote add origin git@github.com:wmc777/electron-demo.git
+
+#git reference
+http://rogerdudler.github.io/git-guide/
