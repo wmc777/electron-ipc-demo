@@ -12,12 +12,14 @@ command line history:
 4) git remote add origin git@github.com:wmc777/electron-demo.git
 
 # git project workflow commands
-#### add changes
-...git add *
-#### commit changes
-...git commit -m "Commit message"
-#### pushing changes to remote repository
-...git push origin master
+### add changes
+* git add *
+### commit changes
+* git commit -m "commit message"
+### add / commit changes
+* git commit -a -m "commit message"
+### pushing changes to remote repository
+* git push origin master
 
 # git reference
 [git - the simple guide](http://rogerdudler.github.io/git-guide/)
