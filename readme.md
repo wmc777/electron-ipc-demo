@@ -1,6 +1,4 @@
-ipc-demo config
-
-command line history:
+# ipc-demo electron configuration commands
 1) npm init -y
 2) npm install electron --save-dev
 3) npm start
@@ -9,7 +7,7 @@ command line history:
 1) git init
 2) git config --global user.name "[name]"
 3) git config --global color.ui auto
-4) git remote add origin git@github.com:wmc777/electron-demo.git
+4) git remote add origin git@github.com:wmc777/electron-ipc-demo.git
 
 # git project workflow commands
 ### add changes
